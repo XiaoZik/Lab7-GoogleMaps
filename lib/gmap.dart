@@ -116,7 +116,7 @@ class _GMapState extends State<GMap> {
         children: <Widget>[
           GoogleMap(
             onMapCreated: _onMapCreated,
-            //Initial coordinate of San Francisco
+            //Initial coordinate of Tokyo, Japan
             initialCameraPosition: CameraPosition(
               target: LatLng(35.6762, 139.6503),
               zoom: 12,
