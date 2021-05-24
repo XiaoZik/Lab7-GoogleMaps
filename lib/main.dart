@@ -8,11 +8,11 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Coding with Curry',
+      title: 'Coding with Zikri',
       theme: ThemeData(
         primarySwatch: Colors.deepPurple,
       ),
-      home: MyHomePage(title: 'Coding with Curry'),
+      home: MyHomePage(title: 'Coding with Zikri'),
     );
   }
 }
